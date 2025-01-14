@@ -65,5 +65,11 @@
 ![ multi-omics and biomarkers](./multi-omics_and_biomarkers.png)
 
  machine learning with phenotype associations, **MILTON**:https://public.cgr.astrazeneca.com/milton/v1/index.html
+ 
+ 基于表型关联的机器学习，MILTON），利用来自67种常规临床生物标志物的数据进行开发，同时结合了来自5万名英国生物银行参与者的3,000种血浆蛋白测量数据。
+ 使用衡量机器学习性能的金标准指标——曲线下面积（AUC)，MILTON分析了3,200种疾病，成功对1,091种疾病实现高预测能力（AUC高于0.7），并对121种疾病表现出卓越性能（AUC高于0.9）。这些发现揭示了潜在的新型生物标志物特征，可在诊断前数年预测疾病风险。
+ 借助英国生物银行的纵向健康记录数据，MILTON能够预测在招募时尚未诊断的疾病病例，其表现远超现有的多基因风险评分（PRS）。
+ MILTON在增强遗传关联分析中的效用，通过对484,230个基因组测序样本及46,327个匹配血浆蛋白质组学数据的样本进行表型广泛关联研究（PheWAS），改善了88种已知基因-疾病关系（P < 1x10⁻⁸）的信号，
+ 同时识别了182种未在未增强的基线队列中达到全基因组水平显著性的基因-疾病关系。我们在FinnGen生物银行中验证了这些发现，并结合了两种独立的机器学习方法，用于基因-疾病优先级排序。
 
  [Garg M, Karpinski M, Matelska D, et al. Disease prediction with multi-omics and biomarkers empowers case–control genetic discoveries in the UK Biobank[J]. Nature Genetics, 2024, 56(9): 1821-1831.](https://www.nature.com/articles/s41588-024-01898-1)
