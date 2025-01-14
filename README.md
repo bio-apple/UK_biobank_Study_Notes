@@ -64,4 +64,6 @@
 
 ![ multi-omics and biomarkers](./multi-omics_and_biomarkers.png)
 
+ machine learning with phenotype associations, **MILTON**:https://public.cgr.astrazeneca.com/milton/v1/index.html
+
  [Garg M, Karpinski M, Matelska D, et al. Disease prediction with multi-omics and biomarkers empowers case–control genetic discoveries in the UK Biobank[J]. Nature Genetics, 2024, 56(9): 1821-1831.](https://www.nature.com/articles/s41588-024-01898-1)
