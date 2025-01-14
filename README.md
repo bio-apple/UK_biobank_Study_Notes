@@ -4,7 +4,9 @@
 
 ## Genomics
 
- Variant-level associations and Gene-level associations(Collapsing analysis): **AstraZeneca PheWAS Portal:** https://azphewas.com
+ Variant-level associations and Gene-level associations(Collapsing analysis):
+ 
+ **AstraZeneca PheWAS Portal:** https://azphewas.com
 
  [Wang Q, Dhindsa R S, Carss K, et al. Rare variant contribution to human disease in 281,104 UK Biobank exomes[J]. Nature, 2021, 597(7877): 527-532.](https://www.nature.com/articles/s41586-021-03855-y)
 
