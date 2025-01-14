@@ -27,7 +27,7 @@
 
 ## Transcriptomics
 
- []
+ [Rowland B, Venkatesh S, Tardaguila M, et al. Transcriptome-wide association study in UK Biobank Europeans identifies associations with blood cell traits[J]. Human Molecular Genetics, 2022, 31(14): 2333-2347.](https://academic.oup.com/hmg/article/31/14/2333/6524829?login=false)
 
 ## Proteomics
 
