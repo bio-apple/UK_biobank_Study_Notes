@@ -51,4 +51,17 @@
 
 ![metabolic](./metabolic.jpg)
 
+全基因组关联研究（GWAS）已确立了常见和低频变异在英国生物银行（UKB）中对代谢血液测量的贡献。
+为了补充现有的GWAS研究结果，我们评估了稀有蛋白编码变异在355种代谢血液测量中的贡献，包括325种主要与脂质相关的核磁共振（NMR）血液代谢物测量（由Nightingale Health Plc提供）和30种临床血液生物标志物，使用了来自UKB的412,393个外显子组序列，这些样本来自四种基因背景多样的族群。
+我们进行了基因水平的汇总分析，以评估代谢血液测量中的稀有变异架构。
+总的来说，我们识别出205个不同基因的显著关联（p < 1 × 10⁻⁸），其中涉及1,968个与Nightingale血液代谢物测量相关的显著关系，及331个与临床血液生物标志物相关的显著关系。
+这些包括与脂质代谢物测量相关的PLIN1和CREB3L3中的稀有非同义变异，以及与肌酐相关的SYT7变异等，这些发现不仅可能提供对新生物学的见解，还可能加深我们对已知疾病机制的理解。
+在所有研究中的显著临床生物标志物关联中，40%的关联在先前对同一队列进行的GWAS分析中未能检测到，这进一步强调了研究稀有变异的重要性，以便全面理解代谢血液测量的遗传结构。
+
  [Nag A, Dhindsa R S, Middleton L, et al. Effects of protein-coding variants on blood metabolite measurements and clinical biomarkers in the UK Biobank[J]. The American Journal of Human Genetics, 2023, 110(3): 487-498.](https://www.cell.com/ajhg/fulltext/S0002-9297(23)00046-0)
+ 
+##  multi-omics
+
+![ multi-omics and biomarkers](./multi-omics_and_biomarkers.png)
+
+ [Garg M, Karpinski M, Matelska D, et al. Disease prediction with multi-omics and biomarkers empowers case–control genetic discoveries in the UK Biobank[J]. Nature Genetics, 2024, 56(9): 1821-1831.](https://www.nature.com/articles/s41588-024-01898-1)
