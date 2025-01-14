@@ -10,6 +10,8 @@
 
  [Wang Q, Dhindsa R S, Carss K, et al. Rare variant contribution to human disease in 281,104 UK Biobank exomes[J]. Nature, 2021, 597(7877): 527-532.](https://www.nature.com/articles/s41586-021-03855-y)
 
+ [Nag A, Dhindsa R S, Mitchell J, et al. Human genetics uncovers MAP3K15 as an obesity-independent therapeutic target for diabetes[J]. Science advances, 2022, 8(46): eadd5430.](https://www.science.org/doi/full/10.1126/sciadv.add5430)
+
 ## Transcriptomics
 
  []
