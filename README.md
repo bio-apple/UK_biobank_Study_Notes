@@ -17,7 +17,13 @@
  该变异与1型和2型糖尿病的风险降低相关（P < 0.05）。在UKB中，MAP3K15蛋白截断变异未与任何不良表型相关，这进一步支持将该基因作为糖尿病治疗的潜在靶点。
  鉴于1型和2型糖尿病之间的诸多差异，发现一个能同时影响这两种糖尿病风险的单一基因是非常罕见的。
 
+ 那么，MAP3K15是什么，如何预防糖尿病呢？简单的答案是，这正是我们研究的关键下一步。我们知道，胰腺是制造胰岛素的地方，而MAP3K15基因在胰腺中通常是活跃的。我们还知道，MAP3K蛋白通常通过响应化学信号帮助细胞进行交流。
+ 我们的希望是，MAP3K15可能是治疗糖尿病的有效靶点，来自英国生物银行、MCPS和FinnGen的数据表明，全球有成千上万，甚至数百万的人MAP3K15水平较低，甚至完全缺乏该蛋白，而他们身体健康。
+ 总体而言，我们的研究表明，MAP3K15可能是预防、甚至治疗糖尿病的安全靶点。如果在进一步的临床前研究中得到验证，那么针对MAP3K15的药物可能会改变糖尿病的医疗模式，帮助遏制全球糖尿病病例的迅速增长，使更多人能够过上更好、更健康的生活。
+
  [Nag A, Dhindsa R S, Mitchell J, et al. Human genetics uncovers MAP3K15 as an obesity-independent therapeutic target for diabetes[J]. Science advances, 2022, 8(46): eadd5430.](https://www.science.org/doi/full/10.1126/sciadv.add5430)
+
+ https://www.astrazeneca.com/what-science-can-do/topics/disease-understanding/navigating-genetics-diabetes-resistance.html
 
 ## Transcriptomics
 
@@ -25,9 +31,21 @@
 
 ## Proteomics
 
+![proteomics](./proteomics.jpg)
+
   **pQTL interactions from UKB-PPP**:https://astrazeneca-cgr-publications.github.io/pqtl-browser/
 
+ 在本研究49,736名英国生物银行（UK Biobank）参与者中，分析了稀有蛋白编码变异与2,923种血浆蛋白丰度之间的关联。 通过变异水平的外显子组关联研究（exome-wide association study, EWAS），发现了5,433个稀有基因型-蛋白关联，其中81%未在对相同队列进行的先前全基因组关联研究中被检测到。
+ 
+ 接着，通过基因水平的汇总分析（collapsing analysis）评估了整体信号，揭示了1,962个基因-蛋白关联。在691个与蛋白截断变异相关的基因信号中，99.4%与蛋白水平的降低相关。编码参与血浆蛋白清除的清道夫受体的基因STAB1和STAB2表现为多效位点，分别与77种和41种蛋白质相关。
+
+ 通过多个应用展示了这一公开资源的实用性，包括：描述NLRC4中的等位基因系列、识别与HSD17B13中脂肪肝疾病相关变异的潜在生物标志物、以及通过整合蛋白定量性状位点（pQTL）和蛋白截断变异的汇总分析加强全表型关联研究。
+
+ 此外，揭示了克隆性造血（clonal haematopoiesis, CH）对蛋白质组的独特影响，例如发现TET2-CH与FLT3水平升高之间的关联。 研究结果强调了稀有变异在血浆蛋白丰度中的重要作用，以及蛋白质基因组学在治疗发现中的巨大价值。
+
  [Dhindsa R S, Burren O S, Sun B B, et al. Rare variant associations with plasma protein levels in the UK Biobank[J]. Nature, 2023, 622(7982): 339-347.](https://www.nature.com/articles/s41586-023-06547-x)
+
+ https://www.astrazeneca.com/what-science-can-do/topics/disease-understanding/understanding-links-between-genetics-and-biology-to-advance-drug-discovery.html
 
 ## Metabolomics
 
